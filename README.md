@@ -1,2 +1,2 @@
-<<<<<<< HEAD
+
 #Software Engineering project
